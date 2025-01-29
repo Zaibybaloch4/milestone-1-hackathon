@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'sour+Gummy ' sans-serif;
+}
+body{
+    background-color:gainsboro;
+}
+
+main{
+    margin: 1rem;
+    display: grid;
+    grid-template-columns: 30% 1fr;
+}
+.left{
+    background-color:rgb(247, 241, 235);
+}
+ul{
+    list-style: none;
+}
+.personal{
+    margin: 1rem;
+    line-height: 2
+}
+.skillSection{
+    margin: 1rem;
+}
+
+
+
+
+.left-image img{
+    position: relative;
+
+}
+h1{
+        border-top: 10px;
+        position:fixed
+        bo
+}
+.present{
+    background-color: green;
+    color: #fff;
+    padding: 0.4rem;
+    border-radius: 3px;
+}
+.Education ul{
+    line-height: 2;
+    margin-top: 2rem;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.experience{
+margin-top: 2rem;
+font-weight: bolder;
+font-size: xx-large;
+}
+.career{
+    margin-top: 2rem;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.right{
+    background-color: rgb(224, 221, 221);
+    padding: 1.5rem;
+}
+
+footer{
+    padding: 2rem;
+    text-align: center;
+
+
+}
+.language{
+    margin:1rem;
+    line-height: 2;
+}
+.head{
+    color: #fff;
+    text-align: center;
+    background-color: green;
+    
+}
+.skillsSection{
+    display: none;
+}
